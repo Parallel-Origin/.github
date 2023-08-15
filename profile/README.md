@@ -1,12 +1,7 @@
-## Hi there 👋
+## Welcome to Parallel-Origin
 
-<!--
+Parallel-Origin is a community driven 3D geolocation game for mobile devices. Travel the world, slaughter mobs, build your empire and connect with other players.
 
-**Here are some ideas to get you started:**
+Anyone who wants can participate and contribute to the application. We gladly accept every new member, every form of cooperation and contribution. In particular we are looking for new active developers with enough C# experience and bite to learn.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The project itself is protected by the CC-BY-NC-SA license. So third party users are not allowed to use this project for their own commercial purposes. The distribution of the project is reserved to the owner and the core team. 
